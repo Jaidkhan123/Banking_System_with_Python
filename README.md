@@ -1,4 +1,6 @@
-# Banking_System_with_Python
-Created a GUI Application using Python
+# Banking_System Py_Project
 
-Download : 
+Thanks for checking out my First Project 
+Banking System
+
+Download : [here](https://github.com/Jaidkhan123/Banking_System_with_Python/releases/tag/V1.6)
